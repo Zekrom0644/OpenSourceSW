@@ -5,8 +5,8 @@
 본 프로젝트는 미국 주식 시장을 주도하는 **M7(Magnificent 7)** 종목들의 주가 흐름을 **시공간적(Spatio-Temporal) 관점**에서 분석하고 예측하는 하이브리드 모델링 시스템입니다.
 
 단순한 시계열 예측의 한계를 극복하기 위해 두 가지 모델을 결합하여 시장을 입체적으로 분석합니다.
-1.  **Temporal Analysis (LSTM):** 개별 종목의 시간적 흐름과 추세(Trend)를 예측.
-2.  **Spatial Analysis (Transformer):** 종목 간의 영향력과 동조화(Coupling) 현상을 분석.
+1.  **Temporal Analysis (LSTM):** 개별 종목의 시간적 흐름과 추세(Trend)를 예측
+2.  **Spatial Analysis (Transformer):** 종목 간의 영향력과 동조화(Coupling) 현상을 분석
 
 > *"LSTM으로 나무(개별 추세)를 보고, Transformer로 숲(시장 맥락)을 읽는다."*
 
