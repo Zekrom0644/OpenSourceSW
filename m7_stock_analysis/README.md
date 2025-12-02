@@ -38,11 +38,11 @@
 
 | Step | File Name | Description |
 |:---:|:---|:---|
-| **01** | `01_get_data.py` | Yahoo Finance에서 M7 데이터 수집 및 전처리 |
-| **02** | `02_preprocess_lstm.py` | LSTM 학습용 데이터셋 생성 (Log Returns 변환) |
-| **03** | `03_train_lstm.py` | LSTM 학습, **주가 복원(Reconstruction)** 및 예측 그래프 저장 |
-| **04** | `04_preprocess_transformer.py` | Transformer 분석용 데이터셋 생성 |
-| **05** | `05_train_transformer.py` | Transformer 학습 및 **Directional Heatmap** 저장 (민감도 분석) |
+| **01** | `get_data.py` | Yahoo Finance에서 M7 데이터 수집 및 전처리 |
+| **02** | `preprocess_lstm.py` | LSTM 학습용 데이터셋 생성 (Log Returns 변환) |
+| **03** | `train_lstm.py` | LSTM 학습, **주가 복원(Reconstruction)** 및 예측 그래프 저장 |
+| **04** | `preprocess_transformer.py` | Transformer 분석용 데이터셋 생성 |
+| **05** | `train_transformer.py` | Transformer 학습 및 **Directional Heatmap** 저장 (민감도 분석) |
 
 ---
 
