@@ -1,5 +1,5 @@
 # 🎬 MovieFinder: AI Semantic Search
----
+
 
   
 
@@ -21,13 +21,13 @@
 
   
 
----
+
 
   
 
 ## 2. 데모 및 실행 예시 (Demo)
 
-사용자가 **"A mouse cooking in a restaurant"** 라고 입력했을 때, AI가 이를 분석하여 **Ratatouille**를 추천하는 모습입니다.
+사용자가 **"A mouse cooking in a restaurant"** 라고 입력했을 때, AI가 이를 분석하여 **"Ratatouille"** 를 추천하는 모습입니다.
 
   
 ![](https://raw.githubusercontent.com/seoj00/pic/refs/heads/main/demo1.png)
@@ -35,7 +35,7 @@
 ![](https://raw.githubusercontent.com/seoj00/pic/refs/heads/main/demo3.png)
 
 
----
+
 
   
 
@@ -58,11 +58,11 @@
 pip install pandas sentence-transformers torch opencv-python numpy
 ```
 
----
+
 
 ## 4. 실행 방법 (Usage)
 
-이 프로그램은 **[Step 1: 인덱스 생성]**과 **[Step 2: 검색 실행]** 두 단계로 이루어져 있습니다.
+이 프로그램은 **[Step 1: 인덱스 생성]** 과 **[Step 2: 검색 실행]** 두 단계로 이루어져 있습니다.
 
   
 
@@ -126,7 +126,7 @@ python 02_main.py
 
   
 
------
+
 
   
 
